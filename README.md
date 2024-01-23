@@ -40,8 +40,8 @@
 
 同时也会将开发过程中的一些坑和总结发到天书开源小组开发博客和掘金，方便大家沟通，欢迎大家关注~
 
-[掘金](https://juejin.im/user/5bf6ac76f265da6116396e0c/posts）
-[语雀](https://www.yuque.com/swdwiki）
+[掘金](https://juejin.im/user/5bf6ac76f265da6116396e0c/posts)
+[语雀](https://www.yuque.com/swdwiki)
 
 ---
 
